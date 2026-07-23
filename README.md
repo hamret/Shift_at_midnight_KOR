@@ -14,7 +14,7 @@ Shift at Midnight KOR 폴더 내 ShiftAtMidnight_Data 폴더를 그대로.
 게임 실행후 언어 선택에서 영어로 선택하셔야 됩니다.
 
 ### 번역 팀 이름: 또 다혜영.
-**파일 작업 : hamret(까치)**
-**번역 작업 : hamret(까치)**
+**파일 작업 : hamret(까치)** <br>
+**번역 작업 : hamret(까치)** <br>
 **번역 도움 : 서하, 조이**
 
